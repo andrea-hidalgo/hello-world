@@ -12,5 +12,6 @@ Ingredients
 - [x] garlic
 - [] onion
 
+make rice to accompany 
 
 A spanking new repository
